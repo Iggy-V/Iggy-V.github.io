@@ -4,7 +4,7 @@
 
 - name: Java
   percentage: 60
-  color:
+  color: 4be220
 
 - name: C/C++
   percentage: 55

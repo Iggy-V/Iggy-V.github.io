@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Microsoft Office
+  percentage: 90
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: Data Analysis
+  percentage: 75
+  color: ed3131
+
+- name: Stata
+  percentage: 70
   color: success
