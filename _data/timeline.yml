@@ -1,17 +1,16 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, Washington and Lee University
+  from: 2021
+  to: 2025
+  description: "One of the top liberal arts colleges in the country.
+               Due to high academic achievement made President's list two
+               years in a row. 
+               Current GPA: 3.970"
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, United World College, Dilijan, Armenia
+  from: 2019
+  to: 2021
+  description: "An international boarding school with a goal of bringing 
+                people from all across the world to educate and work towards
+                sustainable and peaceful future. 
+                Curriculum: International Baccalaureate (IB) 
+                Final Exam Score: 41/45"
