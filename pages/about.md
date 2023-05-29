@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I am currently a rising junior in Washington and Lee University. I am majoring in Computer Science and concidering a double major in Economics or pursuing minors in Mathematics and Philosophy. I am currently a Teaching Assistant for the Computer Science department and an Editorial Assistant for a Sociology and Anthropology professor.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
