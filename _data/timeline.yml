@@ -4,7 +4,7 @@
   description: "One of the top liberal arts colleges in the country.
                Due to high academic achievement made President's list two
                years in a row. 
-               Current GPA: 3.970"
+               \nCurrent GPA: 3.970"
 
 - title: Student, United World College, Dilijan, Armenia
   from: 2019
@@ -12,5 +12,5 @@
   description: "An international boarding school with a goal of bringing 
                 people from all across the world to educate and work towards
                 sustainable and peaceful future. 
-                Curriculum: International Baccalaureate (IB) 
-                Final Exam Score: 41/45"
+                \nCurriculum: International Baccalaureate (IB) 
+                \nFinal Exam Score: 41/45"
