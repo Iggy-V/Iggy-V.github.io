@@ -25,7 +25,7 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Ignas Volčokas
   image             : https://i.imgur.com/vtFCQK7.jpg
-  behance           : your_username
+# behance           : your_username
 # dribbble          : your_username
 #  email             : username@domain.com
   github            : Iggy-V
